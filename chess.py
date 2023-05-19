@@ -41,7 +41,7 @@ def solve_n_queens(n, m, depth, MR):
             transforms.append(solution[::-1])   # vertical reflection
         return transforms
     
-      def rotate(solution):
+     def rotate(solution):
         n = len(solution)
         rotated = [0] * n
         for i in range(n):

@@ -3,7 +3,7 @@
 
 ✸ Problemi N-Queens është një enigmë klasike ku qëllimi është vendosja e N mbretëreshave në një tabelë shahu NxN në mënyrë që asnjë mbretëreshë të mos kërcënojë njëra-tjetrën. Një mbretëreshë mund të sulmojë një mbretëreshë tjetër nëse ndajnë të njëjtin rresht, kolonë ose diagonale. 
 
-                                                   INFORMACIONE RRETH PROGRAMIT
+                                           INFORMACIONE RRETH PROGRAMIT
                                        
 ➢ Reth funksionit: `solve_n_queens(n, m, depth, MR)`
 
